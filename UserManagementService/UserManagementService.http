@@ -1,0 +1,6 @@
+@UserManagementService_HostAddress = http://localhost:5150
+
+GET {{UserManagementService_HostAddress}}/UserController/
+Accept: application/json
+
+###
